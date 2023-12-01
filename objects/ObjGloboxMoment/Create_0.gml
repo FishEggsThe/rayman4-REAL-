@@ -1,0 +1,1 @@
+audio_play_sound(SndGlobox, 10, true);

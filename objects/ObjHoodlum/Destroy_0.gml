@@ -1,0 +1,1 @@
+audio_play_sound(SndHoodlumDie, 8, false);

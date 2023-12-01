@@ -1,0 +1,13 @@
+move = 0;
+moveAdd = 0.3;
+moveMax = 3;
+left = true;
+jump = 0;
+jumpSet = 9;
+jumpMin = -10;
+jumpFall = 0.3;
+airborne = true;
+helicopter = false;
+heliFall = 0;
+heliFallSet = 2;
+heliFallFall = 0.1;

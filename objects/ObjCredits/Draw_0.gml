@@ -1,0 +1,3 @@
+draw_set_halign(fa_center);
+draw_set_color(c_white);
+draw_text(x, y, "Credits:\n\nCreator\nMichael Anchovies\n\nProject Lead\nFish_Eggs\n\nConcepting\nFish_Eggs\n\nProgramming\nFish_Eggs\n\nArt Direction\nFish_Eggs\n\nSound Design\nFish_Eggs\n\nVoice Acting\nFish_Eggs\n\nMoral Support\nFish_Eggs\n\nWriting\nFish_Eggs\n\nStoryboarding\nFish_Eggs\n\nPlaytesting\nFish_Eggs\n\nSpecial Thanks\nFish_Eggs\n\nPepperidge Farm Goldfish Crackers\nPepperidge Farm Goldfish Crackers");
